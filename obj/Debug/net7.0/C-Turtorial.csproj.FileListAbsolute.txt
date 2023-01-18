@@ -1,0 +1,15 @@
+C:\Users\redta\Documents\C-Turtorial\bin\Debug\net7.0\C-Turtorial.exe
+C:\Users\redta\Documents\C-Turtorial\bin\Debug\net7.0\C-Turtorial.deps.json
+C:\Users\redta\Documents\C-Turtorial\bin\Debug\net7.0\C-Turtorial.runtimeconfig.json
+C:\Users\redta\Documents\C-Turtorial\bin\Debug\net7.0\C-Turtorial.dll
+C:\Users\redta\Documents\C-Turtorial\bin\Debug\net7.0\C-Turtorial.pdb
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.csproj.AssemblyReference.cache
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.AssemblyInfoInputs.cache
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.AssemblyInfo.cs
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.csproj.CoreCompileInputs.cache
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.dll
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\refint\C-Turtorial.dll
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.pdb
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\C-Turtorial.genruntimeconfig.cache
+C:\Users\redta\Documents\C-Turtorial\obj\Debug\net7.0\ref\C-Turtorial.dll
